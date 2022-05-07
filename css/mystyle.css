@@ -1,3 +1,11 @@
 ul {
   list-style-type: none;
 }
+
+.card-footer {
+  border-top: 100px;
+}
+
+.card-header {
+  border-bottom: 0px;
+}
