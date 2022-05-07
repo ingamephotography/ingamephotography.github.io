@@ -2,10 +2,11 @@ ul {
   list-style-type: none;
 }
 
-.card-footer {
-  border-top: 100px;
+a {
+  text-decoration: none;
 }
 
 .card-header {
-  border-bottom: 0px;
+  border-bottom-width: 0;
+  background-color: rgba(242, 242, 242, 0.12);
 }
