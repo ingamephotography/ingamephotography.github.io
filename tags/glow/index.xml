@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>glow on INGAME</title>
+    <link>http://ingamephotography.github.io/tags/glow/</link>
+    <description>Recent content in glow on INGAME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 May 2022 06:04:19 +0300</lastBuildDate><atom:link href="http://ingamephotography.github.io/tags/glow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prince of Persia</title>
+      <link>http://ingamephotography.github.io/texts-about-games/prince-of-persia/</link>
+      <pubDate>Sun, 08 May 2022 06:04:19 +0300</pubDate>
+      
+      <guid>http://ingamephotography.github.io/texts-about-games/prince-of-persia/</guid>
+      <description>&lt;p&gt;На протяжении большей части лета я занимался реверс-инжинирингом Prince of Persia: The Sands of Time, чтобы создать для неё свободную камеру, а Егор Черных помогал мне с её тестированием. В результате получились таблица для Cheat Engine (прилагается) и довольно много снимков разной степени случайности (также прилагаются). Пункты ниже описывают процесс их создания с разных сторон — от чисто технических моментов до попыток вчитаться в те режимы зрения, которые предлагают игра и её окрестности.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
